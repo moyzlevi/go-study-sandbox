@@ -80,4 +80,6 @@ func main() {
 	
 	sliceDefault = sliceDefault[:]
 	fmt.Println(sliceDefault)
+
+	
 }
